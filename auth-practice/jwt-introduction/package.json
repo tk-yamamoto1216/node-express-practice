@@ -1,0 +1,18 @@
+{
+  "name": "jwt-introduction",
+  "version": "1.0.0",
+  "description": "参考: https://www.youtube.com/watch?v=9xxXKkwpRg4&t=295s",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
